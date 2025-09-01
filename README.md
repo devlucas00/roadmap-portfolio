@@ -48,11 +48,4 @@ Objetivo: mostrar conhecimento interdisciplinar e acadêmico.
 
 ---
 
-## Como usar
-- Marque com ✅ cada projeto conforme for concluído.  
-- Adicione notas sobre tecnologias, referências e melhorias futuras.  
-- Atualize o README regularmente para acompanhar o progresso.
-
----
-
 **Observação:** Este roadmap serve como organização pessoal para desenvolvimento de portfólio e aprendizado contínuo.
