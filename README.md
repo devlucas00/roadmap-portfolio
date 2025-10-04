@@ -7,7 +7,7 @@ Este repositório serve como guia para organizar os projetos que aplicam os conh
 ## Nível 1 – Básico (Fundamentos Web)
 Objetivo: mostrar domínio de HTML, CSS e JavaScript básico.  
 
-- [ ] **Landing Page Responsiva** – HTML5, CSS3, JS básico  
+- [x] **Landing Page Responsiva** – HTML5, CSS3, JS básico ([ver projeto](https://github.com/devlucas00/CodeElevation))
 - [ ] **Portfólio Pessoal Online** – Currículo, projetos e contatos  
 - [ ] **Página de E-commerce Simples** – Carrinho de compras interativo  
 
