@@ -9,7 +9,7 @@ Objetivo: mostrar domínio de HTML, CSS e JavaScript básico.
 
 - [x] **Landing Page Responsiva** – HTML5, CSS3, JS básico ([ver projeto](https://github.com/devlucas00/CodeElevation))
 - [ ] **Portfólio Pessoal Online** – Currículo, projetos e contatos 
-- [x] **Página de E-commerce Simples** – Carrinho de compras interativo ([ver projeto](https://github.com/devlucas00/ShopEasy))
+- [x] **Página de E-commerce Simples** – Carrinho de compras interativo ([ver projeto](https://github.com/devlucas00/ShopEase))
 
 ---
 
