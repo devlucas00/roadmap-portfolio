@@ -16,7 +16,7 @@ Objetivo: mostrar domínio de HTML, CSS e JavaScript básico.
 ## Nível 2 – Intermediário (Front-End Dinâmico e CRUD)
 Objetivo: integrar JS mais avançado, frameworks e backend básico.  
 
-- [ ] **Dashboard Interativo** – Gráficos e filtros com Chart.js  
+- [x] **Dashboard Interativo** – Gráficos e filtros com Chart.js ([ver projeto](https://github.com/devlucas00/visualyze))
 - [ ] **Sistema CRUD em PHP + MySQL** – Cadastro, edição, remoção e listagem  
 - [ ] **Aplicação Node.js / Express** – API simples com integração MySQL  
 
